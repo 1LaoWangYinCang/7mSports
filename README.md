@@ -1,13 +1,9 @@
-# XiGua Sports expert
+# ChenMinXIaoJin
 
-XiGua Sports expert is a booking platform for sports venues. We are committed to promoting popular and professional sports venues in Chengdu, so that people can efficiently and high-quality book to the sports venues they want to go in their daily life.
+Chenmin Xiaojin is an app that records account transactions in daily life, makes an appointment for iou related courses, and learns the common sense of account transactions. Let people can easily and conveniently record the IOU ious in life, but also can learn the basic knowledge of IOU iOU, can effectively and high-quality appointment to iOU IOU explanation course, so that you understand the nature of account transactions and common sense, avoid accounting disputes.
 
-Our sports venues are clean and hygienic, with professional sports equipment and strong sports atmosphere. We show a variety of sports venues, including equestrian club, fighting hall, boxing hall, archery club, fencing hall and other sports venues. These full range of sports venues can meet the user's selection and appointment.
+Our APP can also mark important accounts to remind ourselves and avoid forgetting them over time. At the same time, our interest calculation function is very professional and reliable, and the problem consultation is also convenient and simple.
 
-Our app classifies these sports venues in great detail, helping users quickly find the sports venues they want to book. Our app also has the function of collecting sports venues. You can put your favorite sports venues in the collection list, so that you can place your next order, browse and make an appointment.
+Easy to record quick appointments anytime, anywhere.
 
-Our app also introduces the skills and knowledge of various competitive sports, so that you can have a better understanding of these sports and enjoy them more. At the same time, you can share the skills and knowledge of these competitive sports with others.
-
-Go beyond your limits, celebrate your victory over yourself, and become an expert at sports.
-
-If you have any questions, please contact us as follows :qingdaokaifazhe@163.com 
+If you have any questions, please contact us as follows :nk_financial@icloud.com
