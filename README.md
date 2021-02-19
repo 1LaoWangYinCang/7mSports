@@ -1,9 +1,15 @@
 # Wenchi Bookkeeping
 
-Wenchi Bookkeeping is an app that records account transactions in daily life, makes an appointment for iou related courses, and learns the common sense of account transactions. Let people can easily and conveniently record the IOU ious in life, but also can learn the basic knowledge of IOU iOU, can effectively and high-quality appointment to iOU IOU explanation course, so that you understand the nature of account transactions and common sense, avoid accounting disputes.
+Wenchi Bookkeeping is an app that allows people to easily record the borrowing and repayment of accounts in their daily life.
 
-Our APP can also mark important accounts to remind ourselves and avoid forgetting them over time. At the same time, our interest calculation function is very professional and reliable, and the problem consultation is also convenient and simple.
+-Our app allows people to book offline courses efficiently and help them learn to share basic knowledge.
 
-Easy to record quick appointments anytime, anywhere.
+-Our app is a very useful record management tool.  It allows you to record every account transaction anytime and anywhere, so as to avoid forgetting for a long time.
+
+- Our app also has the function of marking important accounts. You can mark important accounts and remind yourself at any time to avoid forgetting.
+
+- Our app has a professional interest calculation function, so that you can accurately calculate the amount of interest, professional and reliable, easy to calculate interest, great convenience to life.
+
+Easily record the debit note and quickly book related courses.
 
 If you have any questions, please contact us as follows : lc226v@163.com
